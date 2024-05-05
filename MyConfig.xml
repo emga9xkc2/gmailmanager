@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Languages activeLangId="1">
+    <Language id="1">
+      <caiDat>Cài đặt</caiDat>
+      <caiDatProxy>Cài đặt proxy</caiDatProxy>
+      <quanLyTaiKhoan>Quản lý tài khoản</quanLyTaiKhoan>
+      <kichHoatTaiKhoan>Kích hoạt tài khoản</kichHoatTaiKhoan>
+      <dongPhanMem>Đóng phần mềm</dongPhanMem>
+      <soLuong>Số luồng:</soLuong>
+      <trinhDuyet>Trình duyệt:</trinhDuyet>
+      <capNhatPhanMem>Cập nhật phần mềm</capNhatPhanMem>
+      <checkKhangDisable>Kháng disable không mật khẩu</checkKhangDisable>
+      <LangName>Tiếng việt</LangName>
+    </Language>
+    <Language id="2">
+      <caiDat>Settings</caiDat>
+      <caiDatProxy>Setting proxy</caiDatProxy>
+      <quanLyTaiKhoan>Account manager</quanLyTaiKhoan>
+      <kichHoatTaiKhoan>Active account</kichHoatTaiKhoan>
+      <dongPhanMem>Close</dongPhanMem>
+      <soLuong>Threads:</soLuong>
+      <trinhDuyet>Browser:</trinhDuyet>
+      <capNhatPhanMem>Software updates</capNhatPhanMem>
+      <checkKhangDisable>Restore disable</checkKhangDisable>
+      <LangName>English</LangName>
+    </Language>
+  </Languages>
+  <Colors>
+    <Background>cornflowerblue</Background>
+  </Colors>
+</Root>
