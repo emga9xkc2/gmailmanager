@@ -1,0 +1,21 @@
+* tmproxy.com
+tm://apikey
+----------------------------------
+* proxyno1.com
+apikey,svhnmobi1.proxyno1.com:port
+----------------------------------
+* http proxy
+ip:port:user:pass
+ip:port
+----------------------------------
+* socks5 proxy
+socks5://ip:port:user:pass
+socks5://ip:port
+
+************************************
+
+- Chế độ 1 proxy / 1 thread
++ mỗi luồng sẽ chạy riêng biệt xong quy trình sẽ tự đóng chrome và chạy tiếp
+----------------------------------
+- Chế độ 1 proxy / all thread
++ tool sẽ lấy proxy đầu tiên, tool sẽ đợi tất cả luồng chạy xong hết mới tiếp tục
