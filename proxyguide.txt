@@ -11,6 +11,9 @@ ip:port
 * socks5 proxy
 socks5://ip:port:user:pass
 socks5://ip:port
+----------------------------------
+* vpn
+vpn://privateinternetaccess
 
 ************************************
 
